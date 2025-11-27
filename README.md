@@ -25,6 +25,8 @@ tmdb_5000_movies.csv → Dataset
 
 tmdb_5000_credits.csv → Dataset
 
+
 --> How to run
+
 <img width="795" height="391" alt="image" src="https://github.com/user-attachments/assets/55354ff3-8dbb-4667-823a-97867bf156dd" />
 
